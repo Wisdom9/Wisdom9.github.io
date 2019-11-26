@@ -33,7 +33,7 @@ color : yellow;
 
 <p style = "color : white">
 <marquee>This website is a promo for the spelling application created by a team of students from CNSOS</marquee>
-<img src = "Wose.png" class="center">
+<img src = "https://iowareadingresearch.org/sites/iowareadingresearch.org/files/spelling_new_blog.png" class="center">
 </p>
 <h3 style="color :yellow" >Curt Spelling App Objectives </h3>
 
