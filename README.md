@@ -38,7 +38,7 @@ color : yellow;
 <h3 style="color :yellow" >Curt Spelling App Objectives </h3>
 
 <ul> style="color :white"
-    <li style = "color : white">
+    <li>
         The application's objectives is to make spelling easier for the illiterate
     </li>
     <li style = "color : white" >
