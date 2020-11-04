@@ -707,7 +707,7 @@
             <div class="row">
 
                   <div class="mx-auto col-lg-5 col-md-5 col-10">
-                      <img src="images/ben.jpg" class="img-fluid" alt="Ben Resume HTML Template">
+                      <img src="https://wisdom9.github.io/my_img.jpg" class="img-fluid" alt="Ben Resume HTML Template">
                   </div>
 
                    <div class="d-flex flex-column justify-content-center align-items-center col-lg-7 col-md-7 col-12">
