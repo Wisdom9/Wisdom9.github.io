@@ -1,15 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <style>
 
-    /*
-
-Tooplate 2120 Ben Resume
-
-https://www.tooplate.com/view/2120-ben-resume
-
-*/
 
   @font-face {
       font-family: 'Plain';
