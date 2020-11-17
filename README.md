@@ -8,9 +8,9 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- CSS here -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
     <!--EO CSS-->
 </head>
 
@@ -126,7 +126,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_service text-center">
                         <div class="icon">
-                            <img src="img/svg_icon/1.svg" alt="">
+                            <img src="1.svg" alt="">
                         </div>
                         <h3>
                                 Mobile App Development
@@ -136,7 +136,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_service text-center">
                         <div class="icon">
-                            <img src="img/svg_icon/2.svg" alt="">
+                            <img src="2.svg" alt="">
                         </div>
                         <h3>
                                 Web Development
@@ -146,7 +146,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_service text-center">
                         <div class="icon">
-                            <img src="img/svg_icon/3.svg" alt="">
+                            <img src="3.svg" alt="">
                         </div>
                         <h3>
                                 Desktop App Development
@@ -175,7 +175,7 @@
                         <div class="col-xl-6 col-lg-6 col-md-6">
                             <div class="single_gallery">
                                 <div class="thumb">
-                                   <img src="img/about/mill.jpg" >
+                                   <img src="mill.jpg" >
                                 </div>
                                 <div class="gallery_heading">
                                     <span><h4>Siyavula #1 Million Maths Competition Winner</h4></span>
@@ -184,7 +184,7 @@
                             </div>
                             <div class="single_gallery">
                                 <div class="thumb">
-                                    <img src="img/about/html.jpg" >
+                                    <img src="html.jpg" >
                                 </div>
                                 <div class="gallery_heading">
                                     <span><h4>Sololearn HTML Certification</h4></span>
@@ -194,14 +194,14 @@
                         <div class="col-xl-6 col-lg-6 col-md-6">
                             <div class="single_gallery">
                                 <div class="thumb">
-                                    <img src="img/about/csharp.jpg" ></div>
+                                    <img src="csharp.jpg" ></div>
                                 <div class="gallery_heading">
                                     <span><h4>Sololearn C# Certification</h4></span>
                                      </div>
                             </div>
                             <div class="single_gallery">
                                 <div class="thumb">
-                                    <img src="img/about/Python.jpg" >
+                                    <img src="Python.jpg" >
                                 </div>
                                 <div class="gallery_heading">
                                 
